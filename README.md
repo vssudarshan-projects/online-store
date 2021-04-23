@@ -20,8 +20,8 @@ Back-end:
 
 1. EJS to render the views.
 2. Session management using session tokens and an in memory session store.
-   -- There is a sweep job every 2 hours that clears the session store of inactive sessions.
-   -- Binary min heap and Map to manage sessions.
+      -- There is a sweep job every 2 hours that clears the session store of inactive sessions.
+      -- Binary min heap and Map to manage sessions.
 3. Persistence sessions for "remember me" using auth-tokens and MongoDB atlas as a session store.
    -- Cron job to clear older sessions from DB.
    --There is a sweep job every 2 hours that clears the session store of inactive sessions.
