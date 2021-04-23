@@ -16,7 +16,7 @@ const PUBLIC_PAGES = PUBLIC_PATH + "/html";
 const PORT = process.env.PORT || 3000;
 
 /*Custom modules and settings*/
-if (!process.env.Production) {
+if (!process.env.production) {
   try {
     let env = JSON.parse(fs.readFileSync(PATH + "/env.json"));
     process.env.mongoUser = env.mongoUser;
