@@ -1,0 +1,1 @@
+image size should be 550x360 or have an aspect ratio of 1.5 : 1

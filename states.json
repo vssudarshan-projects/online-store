@@ -1,0 +1,219 @@
+[
+  {
+  "code": "AN",
+  "name": "Andaman and Nicobar Islands",
+  "sPin" : 744,
+  "ePin" : 744
+  },
+  {
+  "code": "AP",
+  "name": "Andhra Pradesh",
+  "sPin" : 50,
+   "ePin": 53
+  },
+  {
+  "code": "AR",
+  "name": "Arunachal Pradesh",
+  "sPin": 79,
+  "ePin": 79
+  },
+  {
+  "code": "AS",
+  "name": "Assam",
+  "sPin": 78,
+  "ePin": 78
+  },
+  {
+  "code": "BR",
+  "name": "Bihar",
+  "sPin": 80,
+  "ePin": 85
+
+  },
+  {
+  "code": "CG",
+  "name": "Chandigarh",
+  "sPin": 160,
+  "ePin": 160
+  },
+  {
+  "code": "CH",
+  "name": "Chhattisgarh",
+  "sPin": 49,
+  "ePin": 49
+  },
+  {
+  "code": "DH",
+  "name": "Dadra and Nagar Haveli",
+  "sPin": 396,
+  "ePin": 396
+  },
+  {
+  "code": "DD",
+  "name": "Daman and Diu",
+  "sPin": 396,
+  "ePin": 396
+  },
+  {
+  "code": "DL",
+  "name": "Delhi",
+  "sPin": 11,
+  "ePin": 11
+  },
+  {
+  "code": "GA",
+  "name": "Goa",
+  "sPin": 403,
+  "ePin": 403
+  },
+  {
+  "code": "GJ",
+  "name": "Gujarat",
+  "sPin": 36,
+  "ePin": 39
+  },
+  {
+  "code": "HR",
+  "name": "Haryana",
+  "sPin": 12,
+  "ePin": 13
+  },
+  {
+  "code": "HP",
+  "name": "Himachal Pradesh",
+  "sPin": 17,
+  "ePin": 17
+  },
+  {
+  "code": "JK",
+  "name": "Jammu and Kashmir",
+  "sPin": 18,
+  "ePin": 19
+  },
+  {
+  "code": "JH",
+  "name": "Jharkhand",
+  "sPin": 80,
+  "ePin": 83
+  },
+  {
+  "code": "KA",
+  "name": "Karnataka",
+  "sPin": 56,
+  "ePin": 59
+  },
+  {
+  "code": "KL",
+  "name": "Kerala",
+  "sPin": 67,
+  "ePin": 69
+  },
+  {
+  "code": "LD",
+  "name": "Lakshadweep",
+  "sPin": 682,
+  "ePin": 682
+  },
+  {
+  "code": "MP",
+  "name": "Madhya Pradesh",
+  "sPin": 45,
+  "ePin": 48
+  },
+  {
+  "code": "MH",
+  "name": "Maharashtra",
+  "sPin": 40,
+  "ePin": 44
+  },
+  {
+  "code": "MN",
+  "name": "Manipur",
+  "sPin": 79,
+  "ePin": 79
+  },
+  {
+  "code": "ML",
+  "name": "Meghalaya",
+  "sPin": 79,
+  "ePin": 79
+  },
+  {
+  "code": "MZ",
+  "name": "Mizoram",
+  "sPin": 79,
+  "ePin": 79
+  },
+  {
+  "code": "NL",
+  "name": "Nagaland",
+  "sPin": 79,
+  "ePin": 79
+  },
+  {
+  "code": "OR",
+  "name": "Odisha",
+  "sPin": 75,
+  "ePin": 77
+  },
+  {
+  "code": "PY",
+  "name": "Puducherry",
+  "sPin": 609,
+  "ePin": 609
+  },
+  {
+  "code": "PB",
+  "name": "Punjab",
+  "sPin": 16,
+  "ePin": 16
+  },
+  {
+  "code": "RJ",
+  "name": "Rajasthan",
+  "sPin": 30,
+  "ePin": 34
+  },
+  {
+  "code": "SK",
+  "name": "Sikkim",
+  "sPin": 737,
+  "ePin": 737
+  },
+  {
+  "code": "TN",
+  "name": "Tamil Nadu",
+  "sPin": 60,
+  "ePin": 64
+  },
+  {
+  "code": "TS",
+  "name": "Telangana",
+  "sPin": 50,
+  "ePin": 53
+  },
+  {
+  "code": "TR",
+  "name": "Tripura",
+  "sPin": 79,
+  "ePin": 79
+  },
+  {
+  "code": "UP",
+  "name": "Uttar Pradesh",
+  "sPin": 20,
+  "ePin": 28
+  },
+  {
+  "code": "UK",
+  "name": "Uttarakhand",
+  "sPin": 24,
+  "ePin": 26
+  },
+  {
+  "code": "WB",
+  "name": "West Bengal",
+  "sPin": 70,
+  "ePin": 74
+  }
+]

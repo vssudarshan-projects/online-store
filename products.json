@@ -1,0 +1,56 @@
+[
+{
+"_id": 1,
+"name": "Individual Guitar Lesson",
+"price": "750",
+"stock":null,
+"img":"/product-img/individual-guitar.jpg"
+},
+{
+"_id": 2,
+"name": "Group Guitar Lesson",
+"price": "400",
+"stock":null,
+"img":"/product-img/group-guitar.jpg"
+},
+{
+"_id": 3,
+"name": "Individual Keyboard Lesson",
+"price": "750",
+"stock":null,
+"img":"/product-img/individual-keyboard.jpg"
+},
+{
+"_id": 4,
+"name": "Group Keyboard Lesson",
+"price": "400",
+"stock":null,
+"img":"/product-img/group-keyboard.jpg"
+},
+{
+"_id": 5,
+"name": "Piano Lesson",
+"price": "1000",
+"stock":null,
+"img":"/product-img/piano.jpg"
+},
+{"_id": 6,
+"name": "Drum Lesson",
+"price": "1000",
+"stock":null,
+"img":"/product-img/drum.jpg"
+},
+{"_id": 7,
+"name": "Electric Bass Lesson",
+"price": "1000",
+"stock":null,
+"img":"/product-img/electric-bass.jpg"
+},
+{
+"_id": 8,
+"name": "Music Theory Lesson",
+"price": "500",
+"stock":null,
+"img":"/product-img/music-theory.jpg"
+}
+]

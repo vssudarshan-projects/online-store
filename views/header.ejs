@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="thematic school of music and arts, a center for music education. Learn to play guitat, keyboar and drums; learn music theory and more with an immersive and engaging curriculum.">
+    <meta name="author" content="sudarshan">
+    <link rel="icon" href="./img/favicon.ico">
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/styles.css">
+<link rel="stylesheet" href="/css/<%=title%>.css">
+
+    <%title = title.split(''); %>
+    <%title[0]= title[0].toUpperCase();title=title.join(''); %>
+        <title><%=title%></title>
+  </head>
+  <body class="h-100">
+<nav class="navbar navbar-light bg-light">
+  <div class=" container d-flex flex-row">
+  <a href="/" class="navbar-brand flex-column"><img class="logo" src="/img/logo.png" alt=""></a>
+  <form class="d-flex flex-column">
+    <div class="form-inline w-100">
+    <input class="form-control" type="search" placeholder="Search" aria-label="Search" disabled>
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" disabled>Search</button>
+    </div>
+  </form>
+  <div class="btn-group">
+    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<img class="avatar flex-column " src="/img/profile.png" alt="">
+ </button>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="/account">Account</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item logout" href="#">Logout</a>
+  </div>
+</div>
+
+</div>
+</nav>
+<noscript>
+  Sorry, your browser does not support JavaScript.
+</noscript>
